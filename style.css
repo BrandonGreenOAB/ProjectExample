@@ -1,6 +1,7 @@
 
 
 header h1 {
-    display: inline-block;
-    font-size: 48px;
+    font-size: 34px;
+    background-color: #0072bb;
+    text-align: center;
 }
