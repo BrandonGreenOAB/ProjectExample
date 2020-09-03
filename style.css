@@ -12,6 +12,7 @@ header h1 {
 
 img {
     margin-bottom: -4px;
+    margin-right: 1.25px;
 }
 
 .container h4 {
@@ -20,6 +21,11 @@ img {
 
 .dogs {
     height: 200px;
-    width: 300px;
+    width: 310px;
     align-content: center;
 }
+
+table {
+    table-layout: fixed;
+    width: 900px;  
+  }
